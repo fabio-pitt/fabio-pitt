@@ -1,10 +1,10 @@
-<!--
-This `README.md` appears on my GitHub profile.
---->
+# Welcome to my GitHub! 🎮
 
-### Hi there 👋
-- 🫡 My name is Fabio Pittaccio and I live near Rome, in Italy
-- 🌈 I studied at Rainbow Academy in Rome as Unreal Engine developer
-- 🧑🏻‍💻 I create a lot of things, but most of the time I keep them private
-- 📫 Come and find out more about me [https://pittacciofabio.wixsite.com/site](https://pittacciofabio.wixsite.com/site)
-- ❤️ I like Action-Adventures games and my favourite saga is Tomb Raider
+- 🫡 I'm Fabio Pittaccio, Unreal Engine Game Developer from Rome, Italy
+- 🎯 Specialized in C++ & Blueprint integration for full-scale video game development
+- 🌈 Rainbow Academy certified - Master in C++ Programming for Unreal Engine
+- 🚀 Creating games from concept to publication: mobile, PC, action-adventures, tower defense
+- 🧑🏻‍💻 Most of my experiments stay private, but the best ones make it to my portfolio
+- 📫 Explore my published projects: pittacciofabio.wixsite.com/site
+- ❤️ Tomb Raider enthusiast - it's what got me into game development
+- 🌍 Available for remote work and international relocations
