@@ -16,7 +16,7 @@ Action-adventure game that follows a fearless archaeologist on a quest to uncove
 Blending exploration, puzzle-solving, and intense combat, the game invites players into a richly detailed world of ancient ruins and hidden secrets. 
 Inspired by legendary sagas like Tomb Raider and Uncharted, it challenges players to master movement, manage resources, and unravel the mysteries of a forgotten civilization.
 \
-[🔗GitHub](https://gitlab.com/fabio-pitt/RuinsRhapsody) || [🔗itch.io](https://fabiopitt.itch.io/ruins-rhapsody-demo) || [🔗GameJolt](https://gamejolt.com/games/ruins-rhapsody-demo/992941)
+[🔗GitLab](https://gitlab.com/fabio-pitt/RuinsRhapsody) || [🔗itch.io](https://fabiopitt.itch.io/ruins-rhapsody-demo) || [🔗GameJolt](https://gamejolt.com/games/ruins-rhapsody-demo/992941)
 
 ### 🐸 [Goblin Jr. Adventure](https://pittacciofabio.wixsite.com/site/goblin-jr-adventure)
 A charming platformer where players guide a brave little goblin through stylized cube worlds filled with coins, traps, and secrets.
