@@ -44,3 +44,6 @@ Control a young wizard who auto-casts spells while dodging waves of enemy mages 
 Designed as a technical prototype, the game showcases core mechanics like progressive difficulty, upgrade systems, and mobile-optimized controls.
 \
 [🔗GitHub](https://github.com/fabio-pitt/VampireSurvivors) || [🔗itch.io](https://fabiopitt.itch.io/wizardscape)
+
+## 🎨 Credits
+- **Profile Picture Artist:** [rihnlin](https://www.instagram.com/rihnlin)
