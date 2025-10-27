@@ -9,6 +9,15 @@
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
 - 🌍 Available for remote work and international relocations
 
+## 🔬 Technical & Research Projects
+
+### ⚔️ [GasAbilities](https://github.com/fabio-pitt/GasAbilities)
+Experimental project exploring Unreal Engine's Gameplay Ability System (GAS). 
+Focused on implementing and testing advanced ability mechanics, attribute systems, and gameplay effects.
+A technical showcase for professional evaluation and learning purposes.
+\
+[🔗GitHub](https://github.com/fabio-pitt/GasAbilities)
+
 ## 🔥 Featured Projects
 Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/fabio-pitt) and [GitHub](https://github.com/fabio-pitt):
 
