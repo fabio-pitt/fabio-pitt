@@ -3,6 +3,7 @@
 - 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
 - 🎯 Specialized in _C++ & Blueprint_ integration for full-scale video game development
 - 🌈 **Rainbow Academy** certified - Master in C++ Programming for Unreal Engine
+- 🔧 **GitKraken** certified - [Git Certified Specialist](https://learn.gitkraken.com/certificates/06p4apf1rm) (Foundations of Git)
 - 🚀 Creating games from concept to publication: mobile, PC, action-adventures, tower defense
 - 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
