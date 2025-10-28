@@ -11,20 +11,22 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-pitt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-pitt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabio-pitt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="65" alt="unrealengine logo"  />
-  <img width="6" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  />
+  <img width="5" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-  <img width="6" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
-  <img width="6" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
 </div>
 
@@ -48,6 +50,12 @@
   </a>
   <a href="https://discord.com/users/1169951922522968104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://gitlab.com/fabio-pitt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
+  <a href="https://paypal.me/graylyfever?locale.x=it_IT&country.x=IT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
 
