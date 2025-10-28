@@ -1,3 +1,5 @@
+<!-- Title and description -->
+
 # Welcome to my GitHub! 🎮
 
 - 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
@@ -11,12 +13,16 @@
 
 ###
 
+<!-- Most used languages and stats -->
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-pitt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=fabio-pitt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
+
+<!-- Dev icons -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -31,6 +37,8 @@
 </div>
 
 ###
+
+<!-- Social and links -->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank">
@@ -48,6 +56,9 @@
   <a href="https://www.twitch.tv/fabio_pitt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  </a>
   <a href="https://discord.com/users/1169951922522968104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
@@ -60,6 +71,8 @@
 </div>
 
 ###
+
+<!-- Projects -->
 
 ## 🔬 Technical & Research Projects
 
@@ -106,6 +119,8 @@ Control a young wizard who auto-casts spells while dodging waves of enemy mages 
 Designed as a technical prototype, the game showcases core mechanics like progressive difficulty, upgrade systems, and mobile-optimized controls.
 \
 [🔗GitHub](https://github.com/fabio-pitt/VampireSurvivors) || [🔗itch.io](https://fabiopitt.itch.io/wizardscape)
+
+<!-- Credits and more -->
 
 ## 🎨 Credits
 - **Profile Picture Artist:** [rihnlin](https://www.instagram.com/rihnlin)
