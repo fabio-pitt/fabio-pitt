@@ -102,7 +102,7 @@ Experimental project exploring Unreal Engine's Gameplay Ability System (GAS).
 Focused on implementing and testing advanced ability mechanics, attribute systems, and gameplay effects.
 A technical showcase for professional evaluation and learning purposes.
 \
-[🔗GitHub](https://github.com/fabio-pitt/GasAbilities)
+[🔗GitHub](https://github.com/fabio-pitt/GasAbilities) || [🔗GitLab](https://gitlab.com/fabio-pitt/GasAbilities)
 
 ## 🔥 Featured Projects
 Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/fabio-pitt) and [GitHub](https://github.com/fabio-pitt):
