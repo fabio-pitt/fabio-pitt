@@ -1,6 +1,6 @@
 <!-- Title and description -->
 
-# Welcome to my GitHub! 🎮
+# Welcome to my Git web platform! 🎮
 
 - 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
 - 🎯 Specialized in _C++ & Blueprint_ integration for full-scale video game development
@@ -64,7 +64,7 @@
   </a>
   <!-- GitLab -->
   <a href="https://gitlab.com/fabio-pitt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
   </a>
   <!-- YouTube -->
   <a href="https://www.youtube.com/@fabio_pitt" target="_blank">
@@ -76,7 +76,7 @@
   </a>
   <!-- Mastodon -->
   <a href="https://mastodon.social/@fabiopitt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
   </a>
   <!-- Discord -->
   <a href="https://discord.com/users/1169951922522968104" target="_blank">
@@ -84,7 +84,7 @@
   </a>
   <!-- PayPal -->
   <a href="https://paypal.me/graylyfever?locale.x=it_IT&country.x=IT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
   </a>
 </div>
 
