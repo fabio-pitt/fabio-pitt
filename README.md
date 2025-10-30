@@ -1,6 +1,8 @@
-<!-- Title and description -->
+<!-- Title -->
 
 # Welcome to my Git web platform! 🎮
+
+<!-- Description -->
 
 - 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
 - 🎯 Specialized in _C++ & Blueprint_ integration for full-scale video game development
