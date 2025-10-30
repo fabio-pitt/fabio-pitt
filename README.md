@@ -27,23 +27,22 @@
 <div align="left">
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="5" />
+  <!-- img width="5" / -->
   <!-- Unreal -->
   <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  />
-  <img width="5" />
+  <!-- img width="5" / -->
   <!-- JB Rider -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="50" alt="rider logo"  />
-  <img width="5" />
+  <!-- img width="5" / -->
   <!-- Git -->
   <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-  <img width="5" />
+  <!-- img width="5" / -->
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
-  <img width="5" />
+  <!-- img width="5" / -->
   <!-- GitLab -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
-  <img width="5" />
-  
+  <!-- img width="5" / -->
 </div>
 
 ###
