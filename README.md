@@ -5,92 +5,120 @@
 <!-- Description -->
 
 - 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
-- 🎯 Specialized in _C++ & Blueprint_ integration for full-scale video game development
-- 🌈 **Rainbow Academy** certified - Master in C++ Programming for Unreal Engine
-- 🔧 **GitKraken** certified - [Git Certified Specialist](https://learn.gitkraken.com/certificates/06p4apf1rm) (Foundations of Git)
-- 🚀 Creating games from concept to publication: PC, mobile, action-adventures, tower defense
+- 🌈 **Unreal Engine C++** - Master in C++ Programming for Unreal Engine at Rainbow Academy in Roma, Italy
+- 🔧 **GitKraken** - Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
+- 🚀 Creating games from concept to publication
 - 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
 - 🌍 Available for remote work and international relocations
 
-###
-
 <!-- Most used languages and stats -->
+
+### Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fabio-pitt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-pitt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <!-- Dev icons -->
 
-<div align="left">
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <!-- img width="5" / -->
-  <!-- Unreal -->
-  <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  />
-  <!-- img width="5" / -->
-  <!-- JB Rider -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="50" alt="rider logo"  />
-  <!-- img width="5" / -->
-  <!-- Git -->
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-  <!-- img width="5" / -->
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
-  <!-- img width="5" / -->
-  <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
-  <!-- img width="5" / -->
-</div>
+### What do I use
 
-###
+<div align="left">
+  
+  <!-- C++ -->
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  </a>
+  
+  <!-- Unreal -->
+  <a href="https://www.unrealengine.com/en-US" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  />
+  </a>
+  
+  <!-- JB Rider -->
+  <a href="https://www.jetbrains.com/rider/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="50" alt="rider logo"  />
+  </a>
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/fabio-pitt" target="_blank">
+	  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  </a>
+  
+  <!-- GitLab -->
+  <a href="https://gitlab.com/fabio-pitt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
+  </a>
+  
+</div>
 
 <!-- Social and links -->
 
+### Social
+
 <div align="left">
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fabio-pittaccio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  
   <!-- itch.io -->
   <a href="https://fabiopitt.itch.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
   </a>
+  
   <!-- Instagram -->
   <a href="https://www.instagram.com/fabio.pitt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <!-- GitLab -->
-  <a href="https://gitlab.com/fabio-pitt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
-  </a>
+  
   <!-- YouTube -->
   <a href="https://www.youtube.com/@fabio_pitt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
+ 
   <!-- Twitch -->
   <a href="https://www.twitch.tv/fabio_pitt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
+  
   <!-- Mastodon -->
   <a href="https://mastodon.social/@fabiopitt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
   </a>
+  
   <!-- Discord -->
   <a href="https://discord.com/users/1169951922522968104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <!-- PayPal -->
-  <a href="https://paypal.me/graylyfever?locale.x=it_IT&country.x=IT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
-  </a>
+  
 </div>
 
-###
+<!-- Support -->
+
+### Support
+
+<div align="left">
+  
+  <!-- Ko-Fi --> 
+  <a href="https://ko-fi.com/fabiopitt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+  </a>
+
+  <!-- PayPal -->
+  <a href="https://paypal.me/FabioPittaccio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
+  </a>
+  
+</div>
 
 <!-- Projects -->
 
@@ -106,7 +134,7 @@ A technical showcase for professional evaluation and learning purposes.
 [🔗GitHub](https://github.com/fabio-pitt/GasAbilities) || [🔗GitLab](https://gitlab.com/fabio-pitt/GasAbilities)
 
 ## 🔥 Featured Projects
-Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/fabio-pitt) and [GitHub](https://github.com/fabio-pitt):
+> Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/fabio-pitt) and [GitHub](https://github.com/fabio-pitt):
 
 <!-- Ruins' Rhapsody -->
 
@@ -128,7 +156,7 @@ Designed for casual players and kids, the game offers simple yet engaging challe
 <!-- Zombie Siege: Chronicles -->
 
 ### 🧟 [Zombie Siege: Chronicles](https://pittacciofabio.wixsite.com/site/zombie-siege)
-Zombie Siege Chronicles is a game developed in Unreal Engine for the 2024 Rookie Awards, combining tower defense, action, and strategy. 
+Zombie Siege Chronicles is a tower defense game developed in UE5 for the **2024 Rookie Awards**. 
 Defend your base from hordes of zombies using turrets, barriers, and special structures.
 Gameplay features a top-down view, dynamic events, and enemies with unique abilities.
 \
