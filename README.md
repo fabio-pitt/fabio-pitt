@@ -4,9 +4,9 @@
 
 <!-- Description -->
 
-- 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
-- 🌈 **Unreal Engine C++** - Master in C++ Programming for Unreal Engine at Rainbow Academy in Roma, Italy
-- 🔧 **GitKraken** - Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
+- 🫡 I'm **Fabio Pittaccio**, known as *pittabio*, from *Rome (Italy)*
+- 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at Rainbow Academy in Roma, Italy
+- 🔧 **GitKraken** / Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
 - 🚀 Creating games from concept to publication
 - 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
@@ -17,8 +17,10 @@
 ### Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-fork-cyan.vercel.app/api?username=fabio-pitt&hide=javascript,shell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-fork-cyan.vercel.app/api/top-langs?username=fabio-pitt&hide=javascript,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fork-cyan.vercel.app/api?username=pittabio&hide=javascript,shell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
+	  height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fork-cyan.vercel.app/api/top-langs?username=pittabio&hide=javascript,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" 
+	  height="150" alt="languages graph"  />
 </div>
 
 <!-- Dev icons -->
