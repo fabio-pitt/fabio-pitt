@@ -5,7 +5,7 @@
 <!-- Description -->
 
 - 🫡 I'm **Fabio Pittaccio**, known as *pittabio*, from *Roma (Italy)*
-- 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at Rainbow Academy in Roma
+- 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at **Rainbow Academy** in *Roma*
 - 🔧 **GitKraken** / Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
 - 🚀 Creating games from concept to publication
 - 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
