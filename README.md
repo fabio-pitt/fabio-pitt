@@ -4,9 +4,9 @@
 
 <!-- Description -->
 
-- 🫡 I'm **Fabio Pittaccio**, Unreal Engine Game Developer from _Rome, Italy_
-- 🌈 **Unreal Engine C++** - Master in C++ Programming for Unreal Engine at Rainbow Academy in Roma, Italy
-- 🔧 **GitKraken** - Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
+- 🫡 I'm **Fabio Pittaccio**, known as *pittabio*, from *Roma (Italy)*
+- 🌈 **Unreal Engine C++** / Master in C++ Programming for Unreal Engine at **Rainbow Academy** in *Roma*
+- 🔧 **GitKraken** / Foundations of Git, version control system [certificate](https://learn.gitkraken.com/certificates/06p4apf1rm)
 - 🚀 Creating games from concept to publication
 - 📫 Explore my published projects in my [PORTFOLIO](https://pittacciofabio.wixsite.com/site)
 - ❤️ Tomb Raider enthusiast - it's what got me into game development
@@ -17,8 +17,10 @@
 ### Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-fork-cyan.vercel.app/api?username=fabio-pitt&hide=javascript,shell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-fork-cyan.vercel.app/api/top-langs?username=fabio-pitt&hide=javascript,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fork-cyan.vercel.app/api?username=pittabio&hide=javascript,shell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false"
+	  height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fork-cyan.vercel.app/api/top-langs?username=pittabio&hide=javascript,shell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" 
+	  height="150" alt="languages graph"  />
 </div>
 
 <!-- Dev icons -->
@@ -71,28 +73,28 @@
   </a>
   
   <!-- itch.io -->
-  <a href="https://fabiopitt.itch.io" target="_blank">
+  <a href="https://pittabio.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/fabio.pitt/" target="_blank">
+  <a href="https://www.instagram.com/pittabio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@fabio_pitt" target="_blank">
+  <a href="https://www.youtube.com/@pittabio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
  
   <!-- Twitch -->
-  <a href="https://www.twitch.tv/fabio_pitt" target="_blank">
+  <a href="https://www.twitch.tv/pittabio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
   
   <!-- Mastodon -->
-  <a href="https://mastodon.social/@fabiopitt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
+  <a href="https://mastodon.social/@pittabio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mastodon logo"  />
   </a>
   
   <!-- Discord -->
@@ -109,7 +111,7 @@
 <div align="left">
   
   <!-- Ko-Fi --> 
-  <a href="https://ko-fi.com/fabiopitt" target="_blank">
+  <a href="https://ko-fi.com/pittabio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
   </a>
 
