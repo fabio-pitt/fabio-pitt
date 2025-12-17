@@ -126,9 +126,18 @@
 
 ## 🔬 Technical & Research Projects
 
-<!-- GasAbilities -->
+<!-- State Tree -->
 
-### ⚔️ [GasAbilities](https://github.com/pittabio/GasAbilities)
+### ⚔️ State Tree AI - Advanced Behavior Systems
+Experimental project exploring Unreal Engine's State Trees. 
+Focused on learning and research project created to explore and master the State Tree system through practical examples.
+A technical showcase for professional evaluation and learning purposes.
+\
+[🔗GitHub](https://github.com/pittabio/StateTreeAI) || [🔗GitLab](https://gitlab.com/pittabio/StateTreeAI)
+
+<!-- Gas Abilities -->
+
+### ⚔️ GAS - Gameplay Ability System
 Experimental project exploring Unreal Engine's Gameplay Ability System (GAS). 
 Focused on implementing and testing advanced ability mechanics, attribute systems, and gameplay effects.
 A technical showcase for professional evaluation and learning purposes.
