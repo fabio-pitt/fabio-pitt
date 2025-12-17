@@ -128,15 +128,15 @@
 
 <!-- GasAbilities -->
 
-### ⚔️ [GasAbilities](https://github.com/fabio-pitt/GasAbilities)
+### ⚔️ [GasAbilities](https://github.com/pittabio/GasAbilities)
 Experimental project exploring Unreal Engine's Gameplay Ability System (GAS). 
 Focused on implementing and testing advanced ability mechanics, attribute systems, and gameplay effects.
 A technical showcase for professional evaluation and learning purposes.
 \
-[🔗GitHub](https://github.com/fabio-pitt/GasAbilities) || [🔗GitLab](https://gitlab.com/fabio-pitt/GasAbilities)
+[🔗GitHub](https://github.com/pittabio/GasAbilities) || [🔗GitLab](https://gitlab.com/pittabio/GasAbilities)
 
 ## 🔥 Featured Projects
-> Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/fabio-pitt) and [GitHub](https://github.com/fabio-pitt):
+> Here are some of my most impactful game development projects across [GitLab](https://gitlab.com/pittabio) and [GitHub](https://github.com/pittabio):
 
 <!-- Ruins' Rhapsody -->
 
@@ -145,7 +145,7 @@ Action-adventure game that follows a fearless archaeologist on a quest to uncove
 Blending exploration, puzzle-solving, and intense combat, the game invites players into a richly detailed world of ancient ruins and hidden secrets. 
 Inspired by legendary sagas like Tomb Raider and Uncharted, it challenges players to master movement, manage resources, and unravel the mysteries of a forgotten civilization.
 \
-[🔗GitLab](https://gitlab.com/fabio-pitt/RuinsRhapsody) || [🔗itch.io](https://fabiopitt.itch.io/ruins-rhapsody-demo) || [🔗GameJolt](https://gamejolt.com/games/ruins-rhapsody-demo/992941)
+[🔗GitLab](https://gitlab.com/pittabio/RuinsRhapsody) || [🔗itch.io](https://pittabio.itch.io/ruins-rhapsody-demo) || [🔗GameJolt](https://gamejolt.com/games/ruins-rhapsody-demo/992941)
 
 <!-- Goblin Jr. Adventure -->
 
@@ -153,7 +153,7 @@ Inspired by legendary sagas like Tomb Raider and Uncharted, it challenges player
 A charming platformer where players guide a brave little goblin through stylized cube worlds filled with coins, traps, and secrets.
 Designed for casual players and kids, the game offers simple yet engaging challenges in vibrant, colorful environments.
 \
-[🔗GitHub](https://github.com/fabio-pitt/GoblinJrAdventure) || [🔗itch.io](https://fabiopitt.itch.io/goblin-jr-adventure)
+[🔗GitHub](https://github.com/pittabio/GoblinJrAdventure) || [🔗itch.io](https://pittabio.itch.io/goblin-jr-adventure)
 
 <!-- Zombie Siege: Chronicles -->
 
@@ -171,7 +171,7 @@ The download is hosted on a contributor's [🔗itch.io](https://fabriziop.itch.i
 It preserves the original's addictive gameplay with simple one-touch controls, now set in a fully 3D environment. 
 Navigate through endless obstacles to achieve the highest score. The game is complete and optimized for Android.
 \
-[🔗GitHub](https://github.com/fabio-pitt/Flying_Bird) || [🔗itch.io](https://fabiopitt.itch.io/flying-bird)
+[🔗GitHub](https://github.com/pittabio/Flying_Bird) || [🔗itch.io](https://pittabio.itch.io/flying-bird)
 
 <!-- WizardScape: The Magic Chase -->
 
@@ -180,7 +180,7 @@ Lightweight survival demo for Android, built with Unreal Engine.
 Control a young wizard who auto-casts spells while dodging waves of enemy mages and collecting magical diamonds.
 Designed as a technical prototype, the game showcases core mechanics like progressive difficulty, upgrade systems, and mobile-optimized controls.
 \
-[🔗GitHub](https://github.com/fabio-pitt/VampireSurvivors) || [🔗itch.io](https://fabiopitt.itch.io/wizardscape)
+[🔗GitHub](https://github.com/pittabio/VampireSurvivors) || [🔗itch.io](https://pittabio.itch.io/wizardscape)
 
 <!-- Credits and more -->
 
